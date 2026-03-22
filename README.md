@@ -3,13 +3,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Cláudio Augusto Novaes Gontijo
+Matricula: 835748
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![Print da tela de inspeção do navegador](images/inspecao_navegador.png)     
 
 
 ## Orientações sobre Linguagem MarkDown
